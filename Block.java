@@ -10,7 +10,7 @@ public class Block {
     }
 
     public Color getColor() {
-        return color;
+        return this.color;
     }
 
     public void setColor(Color color) {
